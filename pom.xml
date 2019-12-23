@@ -30,7 +30,7 @@
 				<username>self_study</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
-				<workerSize>Micro</workerSize>
+				<workerType>Micro</workerType>
 				<applicationName>world-timezone-services</applicationName>
 				<password>Thatwhat@321</password>
 				<muleVersion>4.2.2</muleVersion>
