@@ -7,7 +7,6 @@
 	<artifactId>world-demo-api</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule-application</packaging>
-
 	<name>world-demo-api</name>
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
