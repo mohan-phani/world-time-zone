@@ -34,6 +34,8 @@
 				<applicationName>world-timezone-services</applicationName>
 				<password>Thatwhat@321</password>
 				<muleVersion>4.2.2</muleVersion>
+				<uri>https://anypoint.mulesoft.com</uri>
+				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
