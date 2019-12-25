@@ -8,6 +8,11 @@ pipeline
 				bat 'mvn clean install'
 			}
 		}
+		stage('Munit Test Application'){
+			steps{
+				bat 'mvn test'
+			}
+		}
 		stage('Deploy Application To Mulesoft'){
 			steps{
 				bat 'mvn package deploy -DmuleDeploy'
