@@ -5,7 +5,12 @@ pipeline
 	{
 		stage('Build Application'){
 			steps{
-				bat 'mvn clean install'
+				bat 'mvn clean install -DskipTests'
+			}
+		}
+		stage('Munit Test Application'){
+			steps{
+				bat 'mvn test'
 			}
 		}
 		stage('Deploy Application To Mulesoft'){

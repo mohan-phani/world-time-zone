@@ -1,0 +1,17 @@
+{
+    "week_number": 52,
+    "utc_offset": "+05:30",
+    "utc_datetime": "2019-12-24T15:27:51.827288+00:00",
+    "unixtime": 1577201271,
+    "timezone": "Asia/Kolkata",
+    "raw_offset": 19800,
+    "dst_until": null,
+    "dst_offset": 0,
+    "dst_from": null,
+    "dst": false,
+    "day_of_year": 358,
+    "day_of_week": 2,
+    "datetime": "2019-12-24T20:57:51.827288+05:30",
+    "client_ip": "18.222.240.129",
+    "abbreviation": "IST"
+}
